@@ -72,13 +72,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="Now yet live"></a>
-
-- [<a href="#" target="_blank">Demo</a>](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -88,20 +82,47 @@
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+
+
+  install git
+
+
+### Setup
 
 Clone this repository to your desired folder:
 
 
-
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:sheldonwafula/Hello-world.git
 
 
+### Install
+
+Install this project with:
 
 
+  cd Hello-world
+ 
+
+### Usage
+
+To run the project, execute the following command:
+
+github/sheldonwafula/Hello-world
+
+### Run tests
+
+To run tests, run the following command:
+
+
+github/sheldonwafula/Hello-world
 
 
 ### Deployment
+Not yet deployed but The project will be deployed very soon
 
 
 
